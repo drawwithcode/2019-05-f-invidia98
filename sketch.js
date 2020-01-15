@@ -76,8 +76,7 @@ push();
   fill('white')
   textSize(20)
   textAlign(CENTER,CENTER)
-  text('Uncover your image', width/2-200,20,300,400)
-  text('Press UP and DOWN arrows, and click to give some color', width/2-200,height-70,1000,400)
+  text('Uncover your image, Press UP and DOWN arrows, and click to give some color', width/2-200,20,300,400)
   pop();
 
 }
